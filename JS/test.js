@@ -1,5 +1,6 @@
 const dbRootURL = "https://dxsurvey.com/api/MySurveys/getSurveyResults/",
-  dbID = "REDACTED_DB_ID",
+  // dbID = "REDACTED_DB_ID", //OG
+  dbID = "2d109f03-72d2-4cd1-bcd2-e5e028c06ca9", //Copy
   dbaccessKey = "REDACTED_ACCESS_KEY";
 
 function getData() {
